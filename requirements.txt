@@ -1,6 +1,6 @@
 tensorflow==2.13.0
 tflite-runtime==2.13.0
-numpy
+numpy<2
 pandas
 scikit-learn
 joblib
